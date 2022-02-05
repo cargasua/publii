@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Reverso y contraverso</title>
+    <title>REVERSO Y CONTRAVERSO</title>
     <link href="https://cargasua.github.io/publii/feed.xml" rel="self" />
     <link href="https://cargasua.github.io/publii" />
     <updated>2022-01-29T18:26:11+01:00</updated>
     <author>
-        <name>Yo soy aquel</name>
+        <name>Carlos García Suárez</name>
     </author>
     <id>https://cargasua.github.io/publii</id>
 
     <entry>
         <title>La luz del pórtico</title>
         <author>
-            <name>Yo soy aquel</name>
+            <name>Carlos García Suárez</name>
         </author>
         <link href="https://cargasua.github.io/publii/la-luz-del-portico.html"/>
         <id>https://cargasua.github.io/publii/la-luz-del-portico.html</id>
@@ -38,7 +38,7 @@
     <entry>
         <title>Frágil</title>
         <author>
-            <name>Yo soy aquel</name>
+            <name>Carlos García Suárez</name>
         </author>
         <link href="https://cargasua.github.io/publii/fragil.html"/>
         <id>https://cargasua.github.io/publii/fragil.html</id>
@@ -65,7 +65,7 @@
     <entry>
         <title>Lejos</title>
         <author>
-            <name>Yo soy aquel</name>
+            <name>Carlos García Suárez</name>
         </author>
         <link href="https://cargasua.github.io/publii/lejos.html"/>
         <id>https://cargasua.github.io/publii/lejos.html</id>
@@ -91,7 +91,7 @@
     <entry>
         <title>Bailar</title>
         <author>
-            <name>Yo soy aquel</name>
+            <name>Carlos García Suárez</name>
         </author>
         <link href="https://cargasua.github.io/publii/bailar.html"/>
         <id>https://cargasua.github.io/publii/bailar.html</id>
@@ -117,7 +117,7 @@
     <entry>
         <title>El viaje</title>
         <author>
-            <name>Yo soy aquel</name>
+            <name>Carlos García Suárez</name>
         </author>
         <link href="https://cargasua.github.io/publii/el-viaje.html"/>
         <id>https://cargasua.github.io/publii/el-viaje.html</id>
@@ -144,7 +144,7 @@
     <entry>
         <title>Payaso triste</title>
         <author>
-            <name>Yo soy aquel</name>
+            <name>Carlos García Suárez</name>
         </author>
         <link href="https://cargasua.github.io/publii/payaso-triste-2.html"/>
         <id>https://cargasua.github.io/publii/payaso-triste-2.html</id>
