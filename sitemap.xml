@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://cargasua.github.io/publii/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://cargasua.github.io/publii/</loc>
+</url>
+<url>
+<loc>https://cargasua.github.io/publii/bailar.html</loc>
+<lastmod>2022-01-29T18:25:57+01:00</lastmod>
+<image:image>
+<image:loc>https://cargasua.github.io/publii/media/posts/6/Foto4_Bailar.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cargasua.github.io/publii/el-viaje.html</loc>
+<lastmod>2022-01-29T18:26:04+01:00</lastmod>
+<image:image>
+<image:loc>https://cargasua.github.io/publii/media/posts/5/Foto2_el_viaje.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cargasua.github.io/publii/fragil.html</loc>
+<lastmod>2022-01-29T18:25:39+01:00</lastmod>
+<image:image>
+<image:loc>https://cargasua.github.io/publii/media/posts/8/foto6.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cargasua.github.io/publii/la-luz-del-portico.html</loc>
+<lastmod>2022-01-29T18:25:24+01:00</lastmod>
+<image:image>
+<image:loc>https://cargasua.github.io/publii/media/posts/9/Foto8.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cargasua.github.io/publii/lejos.html</loc>
+<lastmod>2022-01-29T18:25:51+01:00</lastmod>
+<image:image>
+<image:loc>https://cargasua.github.io/publii/media/posts/7/Foto3_lejos.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cargasua.github.io/publii/payaso-triste-2.html</loc>
+<lastmod>2022-01-29T18:26:11+01:00</lastmod>
+<image:image>
+<image:loc>https://cargasua.github.io/publii/media/posts/3/payaso_triste-2.jpg</image:loc>
+<image:title><![CDATA[Los sueños del triste payaso envejecido.]]></image:title>
+</image:image>
+</url>
+</urlset>
