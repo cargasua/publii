@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://cargasua.github.io/publii/mis-acordes-cotidianos.html",
+            "url": "https://cargasua.github.io/publii/mis-acordes-cotidianos.html",
+            "title": "Mis acordes cotidianos",
+            "summary": " Al soplar el aire que renombra las luces, enciendo un sol&hellip;",
+            "content_html": "<address> </address>\n<p class=\"msg--highlight   dropcap msg \">Al soplar<br>el aire que renombra las luces,<br>enciendo<br>un sol con guirnaldas,<br>descifrado de nubes<br>sobre un acantilado extenso<br><br>y amplío<br>mi búsqueda<br>a las calles más próximas,<br>al balcón de tus ojos,<br>renombrado<br>tus letras en cursiva<br><br>y desciendo <br>por el valle de tu espalda,<br>donde ese nombre perfecto<br>encaja<br>en la encrucijada de tus hombros,<br>y en el cruce de caminos<br>de tus manos.<br><br>y así,<br>en un soplido,<br>a tres melodías,<br>abrazo<br>mis acordes cotidianos <br>henchidos de ceniza y luna<br>y me olvido<br>de la caída y los muros<br>en el balcón de tus ojos</p>\n<p> </p>\n<blockquote>\n<p>Al soplar<br>el aire que renombra las luces,<br>enciendo<br>un sol con guirnaldas,<br>descifrado de nubes<br>sobre un acantilado extenso</p>\n</blockquote>",
+            "image": "https://cargasua.github.io/publii/media/posts/12/Poema_.jpg",
+            "author": {
+                "name": "Carlos García Suárez"
+            },
+            "tags": [
+                   "Poemario"
+            ],
+            "date_published": "2022-02-27T18:54:17+01:00",
+            "date_modified": "2022-02-27T18:58:24+01:00"
+        },
+        {
             "id": "https://cargasua.github.io/publii/la-luz-del-portico.html",
             "url": "https://cargasua.github.io/publii/la-luz-del-portico.html",
             "title": "La luz del pórtico",

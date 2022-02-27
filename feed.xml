@@ -3,12 +3,40 @@
     <title>REVERSO Y CONTRAVERSO</title>
     <link href="https://cargasua.github.io/publii/feed.xml" rel="self" />
     <link href="https://cargasua.github.io/publii" />
-    <updated>2022-02-05T13:09:31+01:00</updated>
+    <updated>2022-02-27T18:58:24+01:00</updated>
     <author>
         <name>Carlos García Suárez</name>
     </author>
     <id>https://cargasua.github.io/publii</id>
 
+    <entry>
+        <title>Mis acordes cotidianos</title>
+        <author>
+            <name>Carlos García Suárez</name>
+        </author>
+        <link href="https://cargasua.github.io/publii/mis-acordes-cotidianos.html"/>
+        <id>https://cargasua.github.io/publii/mis-acordes-cotidianos.html</id>
+            <category term="Poemario"/>
+
+        <updated>2022-02-27T18:58:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cargasua.github.io/publii/media/posts/12/Poema_.jpg" alt="" />
+                     Al soplar el aire que renombra las luces, enciendo un sol&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cargasua.github.io/publii/media/posts/12/Poema_.jpg" alt="" />
+                <address> </address>
+<p class="msg--highlight   dropcap msg ">Al soplar<br>el aire que renombra las luces,<br>enciendo<br>un sol con guirnaldas,<br>descifrado de nubes<br>sobre un acantilado extenso<br><br>y amplío<br>mi búsqueda<br>a las calles más próximas,<br>al balcón de tus ojos,<br>renombrado<br>tus letras en cursiva<br><br>y desciendo <br>por el valle de tu espalda,<br>donde ese nombre perfecto<br>encaja<br>en la encrucijada de tus hombros,<br>y en el cruce de caminos<br>de tus manos.<br><br>y así,<br>en un soplido,<br>a tres melodías,<br>abrazo<br>mis acordes cotidianos <br>henchidos de ceniza y luna<br>y me olvido<br>de la caída y los muros<br>en el balcón de tus ojos</p>
+<p> </p>
+<blockquote>
+<p>Al soplar<br>el aire que renombra las luces,<br>enciendo<br>un sol con guirnaldas,<br>descifrado de nubes<br>sobre un acantilado extenso</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>La luz del pórtico</title>
         <author>
