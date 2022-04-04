@@ -3,12 +3,35 @@
     <title>REVERSO Y CONTRAVERSO</title>
     <link href="https://cargasua.github.io/publii/feed.xml" rel="self" />
     <link href="https://cargasua.github.io/publii" />
-    <updated>2022-02-27T18:58:24+01:00</updated>
+    <updated>2022-04-04T19:56:37+02:00</updated>
     <author>
         <name>Carlos García Suárez</name>
     </author>
     <id>https://cargasua.github.io/publii</id>
 
+    <entry>
+        <title>Mensajes en gris</title>
+        <author>
+            <name>Carlos García Suárez</name>
+        </author>
+        <link href="https://cargasua.github.io/publii/mensajes-en-gris.html"/>
+        <id>https://cargasua.github.io/publii/mensajes-en-gris.html</id>
+            <category term="Poemario"/>
+
+        <updated>2022-04-04T19:56:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cargasua.github.io/publii/media/posts/13/photo_2022-03-31_20-24-16.jpg" alt="" />
+                    Asidero de sombra hueca movible de pensamientos y sol, colores entre amasijos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cargasua.github.io/publii/media/posts/13/photo_2022-03-31_20-24-16.jpg" alt="" />
+                <p class="dropcap msg--highlight msg  msg--info">Asidero de sombra hueca<br>movible de pensamientos y sol, <br>colores entre amasijos <br>y lumbre de sueños, <br>pintados en un corazón<br>hecho de polvo y asfalto.<br><br>Mensajes atrapados en gris<br>que anticipan un nudo en el alma,<br>letras que bailan solsticio de calor<br>y nubes, enhebrado acertijos, disueltos en el cemento que los atrapa <br><br>Música evocada,<br>justo cuando sube la marea del río,<br>y algunas voces claman<br>la llegada de los nuevos reínos.<br><br>El eco cae sobre la tumba gris del pavimento. El aire merodea,<br>y se hace cómplice de los colores  tratando de atrapar, <br>un sonido que parece <br>el latido de un corazón <br>mordido por las letras <br>a la intemperie de los recuerdos</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mis acordes cotidianos</title>
         <author>
@@ -22,7 +45,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://cargasua.github.io/publii/media/posts/12/Poema_.jpg" alt="" />
-                     Al soplar el aire que renombra las luces, enciendo un sol&hellip;
+                    Al soplar el aire que renombra las luces, enciendo un sol con&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -76,7 +99,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://cargasua.github.io/publii/media/posts/8/foto6.jpg" alt="" />
-                     Cansancio y lumbre, la esperanza del alma, un camino por recorrer,&hellip;
+                    Cansancio y lumbre, la esperanza del alma, un camino por recorrer, altavoces&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -182,7 +205,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://cargasua.github.io/publii/media/posts/3/payaso_triste-2.jpg" alt="Los sueños del triste payaso envejecido." />
-                     La ciudad lastra madera fina y alabastro tardío en deslumbrantes curvas,&hellip;
+                    La ciudad lastra madera fina y alabastro tardío en deslumbrantes curvas, gestos&hellip;
                 ]]>
             </summary>
         <content type="html">

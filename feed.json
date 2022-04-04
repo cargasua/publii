@@ -10,10 +10,26 @@
     },
     "items": [
         {
+            "id": "https://cargasua.github.io/publii/mensajes-en-gris.html",
+            "url": "https://cargasua.github.io/publii/mensajes-en-gris.html",
+            "title": "Mensajes en gris",
+            "summary": "Asidero de sombra hueca movible de pensamientos y sol, colores entre amasijos&hellip;",
+            "content_html": "<p class=\"dropcap msg--highlight msg  msg--info\">Asidero de sombra hueca<br>movible de pensamientos y sol, <br>colores entre amasijos <br>y lumbre de sueños, <br>pintados en un corazón<br>hecho de polvo y asfalto.<br><br>Mensajes atrapados en gris<br>que anticipan un nudo en el alma,<br>letras que bailan solsticio de calor<br>y nubes, enhebrado acertijos, disueltos en el cemento que los atrapa <br><br>Música evocada,<br>justo cuando sube la marea del río,<br>y algunas voces claman<br>la llegada de los nuevos reínos.<br><br>El eco cae sobre la tumba gris del pavimento. El aire merodea,<br>y se hace cómplice de los colores  tratando de atrapar, <br>un sonido que parece <br>el latido de un corazón <br>mordido por las letras <br>a la intemperie de los recuerdos</p>",
+            "image": "https://cargasua.github.io/publii/media/posts/13/photo_2022-03-31_20-24-16.jpg",
+            "author": {
+                "name": "Carlos García Suárez"
+            },
+            "tags": [
+                   "Poemario"
+            ],
+            "date_published": "2022-04-04T19:56:37+02:00",
+            "date_modified": "2022-04-04T19:56:37+02:00"
+        },
+        {
             "id": "https://cargasua.github.io/publii/mis-acordes-cotidianos.html",
             "url": "https://cargasua.github.io/publii/mis-acordes-cotidianos.html",
             "title": "Mis acordes cotidianos",
-            "summary": " Al soplar el aire que renombra las luces, enciendo un sol&hellip;",
+            "summary": "Al soplar el aire que renombra las luces, enciendo un sol con&hellip;",
             "content_html": "<address> </address>\n<p class=\"msg--highlight   dropcap msg \">Al soplar<br>el aire que renombra las luces,<br>enciendo<br>un sol con guirnaldas,<br>descifrado de nubes<br>sobre un acantilado extenso<br><br>y amplío<br>mi búsqueda<br>a las calles más próximas,<br>al balcón de tus ojos,<br>renombrado<br>tus letras en cursiva<br><br>y desciendo <br>por el valle de tu espalda,<br>donde ese nombre perfecto<br>encaja<br>en la encrucijada de tus hombros,<br>y en el cruce de caminos<br>de tus manos.<br><br>y así,<br>en un soplido,<br>a tres melodías,<br>abrazo<br>mis acordes cotidianos <br>henchidos de ceniza y luna<br>y me olvido<br>de la caída y los muros<br>en el balcón de tus ojos</p>\n<p> </p>\n<blockquote>\n<p>Al soplar<br>el aire que renombra las luces,<br>enciendo<br>un sol con guirnaldas,<br>descifrado de nubes<br>sobre un acantilado extenso</p>\n</blockquote>",
             "image": "https://cargasua.github.io/publii/media/posts/12/Poema_.jpg",
             "author": {
@@ -45,7 +61,7 @@
             "id": "https://cargasua.github.io/publii/fragil.html",
             "url": "https://cargasua.github.io/publii/fragil.html",
             "title": "Frágil",
-            "summary": " Cansancio y lumbre, la esperanza del alma, un camino por recorrer,&hellip;",
+            "summary": "Cansancio y lumbre, la esperanza del alma, un camino por recorrer, altavoces&hellip;",
             "content_html": "<p class=\"msg msg--info\"><br>Cansancio y lumbre,    <br> la esperanza del alma,  <br> un camino por recorrer,   <br> altavoces en el camino,   <br> rescate del viento a contra luz,  <br> humanidad que atrapa ilusiones y vierte armonía,   <br> pétalos como un regalo lanzado al mar.  </p>\n<p class=\"msg msg--info dropcap\"> Cansando desgastado, supervivencia,  <br> añoranza del olor a tierra fértil,  <br> a padre y a madre,  <br> alegría de la vida por delante,   <br> un abrazo al intrépido futuro,   <br> pies frágiles,  <br> corazón guerrero.  </p>\n<blockquote>\n<p>Cansando desgastado, supervivencia,  <br> añoranza del olor a tierra fértil,  <br> a padre y a madre,  <br> alegría de la vida por delante,   <br> un abrazo al intrépido futuro</p>\n</blockquote>",
             "image": "https://cargasua.github.io/publii/media/posts/8/foto6.jpg",
             "author": {
@@ -109,7 +125,7 @@
             "id": "https://cargasua.github.io/publii/payaso-triste-2.html",
             "url": "https://cargasua.github.io/publii/payaso-triste-2.html",
             "title": "Payaso triste",
-            "summary": " La ciudad lastra madera fina y alabastro tardío en deslumbrantes curvas,&hellip;",
+            "summary": "La ciudad lastra madera fina y alabastro tardío en deslumbrantes curvas, gestos&hellip;",
             "content_html": "<p> </p>\n<blockquote>\n<p class=\"msg msg--highlight \">La ciudad lastra madera fina y alabastro  <br>tardío en deslumbrantes curvas, gestos  <br>extendidos que suenan a música triste  y desconcierto vendido<br><br>El aire y el humo esbozan gestos imaginarios,  <br>tratan de vender una alegría de caricias  <br>y escenarios, oculta la muchedumbre  <br>entre vasijas y ungüentos, desde el  <br>tiempo acabado, entre la mugre, los  <br>hierros retorcidos, y el barro mojado  <br>por la lluvia, que vela los sueños del triste  <br>payaso envejecido.</p>\n</blockquote>\n<p> </p>",
             "image": "https://cargasua.github.io/publii/media/posts/3/payaso_triste-2.jpg",
             "author": {
