@@ -3,12 +3,35 @@
     <title>REVERSO Y CONTRAVERSO</title>
     <link href="https://cargasua.github.io/publii/feed.xml" rel="self" />
     <link href="https://cargasua.github.io/publii" />
-    <updated>2022-04-04T19:56:37+02:00</updated>
+    <updated>2022-05-08T18:14:23+02:00</updated>
     <author>
         <name>Carlos García Suárez</name>
     </author>
     <id>https://cargasua.github.io/publii</id>
 
+    <entry>
+        <title>Atrás quedaron las nubes</title>
+        <author>
+            <name>Carlos García Suárez</name>
+        </author>
+        <link href="https://cargasua.github.io/publii/atras-quedaron-las-nubes.html"/>
+        <id>https://cargasua.github.io/publii/atras-quedaron-las-nubes.html</id>
+            <category term="Poemario"/>
+
+        <updated>2022-05-08T18:14:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cargasua.github.io/publii/media/posts/15/foto.bici.jpg" alt="" />
+                    Atrás quedaron las nubes y el aire infinito que elevaba la disolución&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cargasua.github.io/publii/media/posts/15/foto.bici.jpg" alt="" />
+                <p class="msg msg--highlight ">Atrás quedaron las nubes <br>y el aire infinito que elevaba<br>la disolución de los pensamientos, <br>nutrientes de desapego <br>sobre extensas carpetas<br>y los remiendos anegados. <br><br>En el paisaje<br>y la vuelta de los sueños<br>se achicaron las nostalgias <br>comprendí que los arpegios del viento<br>están formados por lineas infinitas, al albedrío de las vistas iluminadas <br><br>Y pude, por fin, soltar mis alas <br>sobre el cielo morado.<br>más allá del hormigón<br>y la impostura de sus horas <br><br>Y pude, por fin, asimilar mi vuelo <br>al de los propios árboles <br>y vestir de color amarillo <br>mi propia coraza,<br>dejar que mis piernas se hicieran<br>de piel y humedad,<br>como los besos de las cerezas,<br><br>Despejar sobre la marea<br>olores que me recuerdan <br>a las mañanas de marzo<br>entre dientes de león<br>y pan recién horneado <br><br>Entrever sobre el eco de las montañas<br>sonidos que me transportan <br>al hogar de las mariposas,<br>motas de polvo<br>deslizándose por la ventana <br>al amanecer <br>de aquellos veranos <br>atrás del tiempo transcurrido.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mensajes en gris</title>
         <author>
