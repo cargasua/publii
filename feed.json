@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://cargasua.github.io/publii/la-nada.html",
+            "url": "https://cargasua.github.io/publii/la-nada.html",
+            "title": "La Nada",
+            "summary": "No es cierta la nada, es apenas una mancha sobre la tierra,&hellip;",
+            "content_html": "<p class=\"dropcap msg--highlight   msg--info msg\">No es cierta la nada,<br>es apenas una mancha sobre la tierra,<br>un pez que se desliza<br>calle arriba del lagrimal <br>en la espesura ignota<br>de unos versos desaprensivos <br><br>No es cierta la vida, ni los sueños,<br>son apenas remiendos, y puntos, fugas, y perspectivas,<br>un punto final y un vacío <br>que se burla de los que prefieren <br>ignorar las distancias<br><br>No veo más allá del miedo<br>cuando me detengo a mirar,<br>y desarmo figuras de arcilla,<br>vidriosas como respuestas innecesarias.<br><br>Mis manos <br>se apresuran en sus quehaceres,<br>desplazamientos, ruidos, ciudades,<br>nadie en la mañana,<br>y el impulso de caer<br>al fondo <br>del metal antiguo <br>que permanece, aunque oxidado, <br>en una fábrica abandonada. <br><br>No es cierto este día.<br>Ni está noche.<br>Sólo el sonido por dentro<br>del batir de las alas de una polilla <br>en el tránsito de los bucles del fuego,<br>la electricidad que se intuye <br>en el interior del cerebro.<br><br>No es cierto este sueño<br>que no se duerme<br>y aprieta como una esponja ciega <br>la nada de mis lamentos.</p>",
+            "image": "https://cargasua.github.io/publii/media/posts/17/la_nada",
+            "author": {
+                "name": "Carlos García Suárez"
+            },
+            "tags": [
+                   "Poemario"
+            ],
+            "date_published": "2022-06-02T06:38:45+02:00",
+            "date_modified": "2022-06-02T06:39:39+02:00"
+        },
+        {
             "id": "https://cargasua.github.io/publii/liberar-el-lagarto.html",
             "url": "https://cargasua.github.io/publii/liberar-el-lagarto.html",
             "title": "Liberar el lagarto",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2022-01-29T17:35:01+01:00",
             "date_modified": "2022-02-05T13:09:31+01:00"
-        },
-        {
-            "id": "https://cargasua.github.io/publii/payaso-triste-2.html",
-            "url": "https://cargasua.github.io/publii/payaso-triste-2.html",
-            "title": "Payaso triste",
-            "summary": "La ciudad lastra madera fina y alabastro tardío en deslumbrantes curvas, gestos&hellip;",
-            "content_html": "<p> </p>\n<blockquote>\n<p class=\"msg msg--highlight \">La ciudad lastra madera fina y alabastro  <br>tardío en deslumbrantes curvas, gestos  <br>extendidos que suenan a música triste  y desconcierto vendido<br><br>El aire y el humo esbozan gestos imaginarios,  <br>tratan de vender una alegría de caricias  <br>y escenarios, oculta la muchedumbre  <br>entre vasijas y ungüentos, desde el  <br>tiempo acabado, entre la mugre, los  <br>hierros retorcidos, y el barro mojado  <br>por la lluvia, que vela los sueños del triste  <br>payaso envejecido.</p>\n</blockquote>\n<p> </p>",
-            "image": "https://cargasua.github.io/publii/media/posts/3/payaso_triste-2.jpg",
-            "author": {
-                "name": "Carlos García Suárez"
-            },
-            "tags": [
-                   "Poemario"
-            ],
-            "date_published": "2022-01-29T11:37:58+01:00",
-            "date_modified": "2022-01-29T18:26:11+01:00"
         }
     ]
 }

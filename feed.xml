@@ -3,12 +3,35 @@
     <title>REVERSO Y CONTRAVERSO</title>
     <link href="https://cargasua.github.io/publii/feed.xml" rel="self" />
     <link href="https://cargasua.github.io/publii" />
-    <updated>2022-05-21T15:56:34+02:00</updated>
+    <updated>2022-06-02T06:39:39+02:00</updated>
     <author>
         <name>Carlos García Suárez</name>
     </author>
     <id>https://cargasua.github.io/publii</id>
 
+    <entry>
+        <title>La Nada</title>
+        <author>
+            <name>Carlos García Suárez</name>
+        </author>
+        <link href="https://cargasua.github.io/publii/la-nada.html"/>
+        <id>https://cargasua.github.io/publii/la-nada.html</id>
+            <category term="Poemario"/>
+
+        <updated>2022-06-02T06:39:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cargasua.github.io/publii/media/posts/17/la_nada" alt="La nada" />
+                    No es cierta la nada, es apenas una mancha sobre la tierra,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cargasua.github.io/publii/media/posts/17/la_nada" alt="La nada" />
+                <p class="dropcap msg--highlight   msg--info msg">No es cierta la nada,<br>es apenas una mancha sobre la tierra,<br>un pez que se desliza<br>calle arriba del lagrimal <br>en la espesura ignota<br>de unos versos desaprensivos <br><br>No es cierta la vida, ni los sueños,<br>son apenas remiendos, y puntos, fugas, y perspectivas,<br>un punto final y un vacío <br>que se burla de los que prefieren <br>ignorar las distancias<br><br>No veo más allá del miedo<br>cuando me detengo a mirar,<br>y desarmo figuras de arcilla,<br>vidriosas como respuestas innecesarias.<br><br>Mis manos <br>se apresuran en sus quehaceres,<br>desplazamientos, ruidos, ciudades,<br>nadie en la mañana,<br>y el impulso de caer<br>al fondo <br>del metal antiguo <br>que permanece, aunque oxidado, <br>en una fábrica abandonada. <br><br>No es cierto este día.<br>Ni está noche.<br>Sólo el sonido por dentro<br>del batir de las alas de una polilla <br>en el tránsito de los bucles del fuego,<br>la electricidad que se intuye <br>en el interior del cerebro.<br><br>No es cierto este sueño<br>que no se duerme<br>y aprieta como una esponja ciega <br>la nada de mis lamentos.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Liberar el lagarto</title>
         <author>
@@ -235,33 +258,6 @@
 <blockquote>
 <p>Solo allí, después de tanto correr,  <br>uno se encuentra con el niño que creía perdido  <br>y baña su responsabilidad en el lago profundo de sus ojos  </p>
 </blockquote>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Payaso triste</title>
-        <author>
-            <name>Carlos García Suárez</name>
-        </author>
-        <link href="https://cargasua.github.io/publii/payaso-triste-2.html"/>
-        <id>https://cargasua.github.io/publii/payaso-triste-2.html</id>
-            <category term="Poemario"/>
-
-        <updated>2022-01-29T18:26:11+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://cargasua.github.io/publii/media/posts/3/payaso_triste-2.jpg" alt="Los sueños del triste payaso envejecido." />
-                    La ciudad lastra madera fina y alabastro tardío en deslumbrantes curvas, gestos&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://cargasua.github.io/publii/media/posts/3/payaso_triste-2.jpg" alt="Los sueños del triste payaso envejecido." />
-                <p> </p>
-<blockquote>
-<p class="msg msg--highlight ">La ciudad lastra madera fina y alabastro  <br>tardío en deslumbrantes curvas, gestos  <br>extendidos que suenan a música triste  y desconcierto vendido<br><br>El aire y el humo esbozan gestos imaginarios,  <br>tratan de vender una alegría de caricias  <br>y escenarios, oculta la muchedumbre  <br>entre vasijas y ungüentos, desde el  <br>tiempo acabado, entre la mugre, los  <br>hierros retorcidos, y el barro mojado  <br>por la lluvia, que vela los sueños del triste  <br>payaso envejecido.</p>
-</blockquote>
-<p> </p>
             ]]>
         </content>
     </entry>
